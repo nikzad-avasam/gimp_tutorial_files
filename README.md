@@ -1,5 +1,5 @@
 # دوره ی آموزش کامل gimp 2.10
-<img src="https://github.com/abasnikzad/gimp_tutorial_files/blob/master/لوگو%20نرم%20افزار%20gimp%20.png" />
+<img width="100" src="https://github.com/abasnikzad/gimp_tutorial_files/blob/master/لوگو%20نرم%20افزار%20gimp%20.png" />
 <hr/>
 دوره ی آموزش فارسی gimp بصورت کاملا رایگان
 
