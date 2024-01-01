@@ -6,4 +6,4 @@
 --------
 برا ی دریافت کامل این دوره ی آموزشی به لینک های زیر مراجعه فرمایید .
 
-https://avasam.ir/product/60
+https://www.aparat.com/playlist/305560
